@@ -24,4 +24,4 @@ REPLICATION
 
 MORE
 
-please see the repository for the original paper on which this project was based([https://www.nature.com/articles/s41586-023-06098-1](https://www.nature.com/articles/s41586-023-06098-1)) for further detail on data sources, script sources, hpc dependencies, eigenmode analysis, etc: [https://github.com/NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes)
+please see the repository for the original paper on which this project was based ([https://www.nature.com/articles/s41586-023-06098-1](https://www.nature.com/articles/s41586-023-06098-1)) for further detail on data sources, script sources, hpc dependencies, eigenmode analysis, etc: [https://github.com/NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes)
